@@ -1,2 +1,2 @@
-név:
-osztály:
+név:Balázs Mihály   
+osztály:10/c
